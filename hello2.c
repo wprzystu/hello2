@@ -11,6 +11,9 @@ printf("Mechanical Engineer);
 
       pirntf("Jake King");
       printf("Mechanical Engineer);
+             
+             pirntf("Ahmed Albalushi");
+             printf("Electrical Engineer);
       
 return 0;
 }
