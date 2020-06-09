@@ -9,6 +9,8 @@ int main (int argc, char **argv){
 pirntf("William przystup");
 printf("Mechanical Engineer);
 
+      pirntf("Jake King");
+      printf("Mechanical Engineer);
       
 return 0;
 }
